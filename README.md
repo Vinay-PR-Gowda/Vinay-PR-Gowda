@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vinay 👋
 
-<!--
-**Vinay-PR-Gowda/Vinay-PR-Gowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud/DevOps Engineer based in Bangalore, India.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Cloud: AWS
+- OS: Linux
+- Languages: Python, Shell Scripting
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently
+Building hands-on projects in cloud infrastructure and automation.
+
+## 📫 Reach me
+- LinkedIn: https://www.linkedin.com/in/vinay-gowda-754240416/?skipRedirect=true
+- Email: vinaygowda19122005@gmail.com
