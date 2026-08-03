@@ -1,3 +1,7 @@
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
+
 # Hi, I'm Vinay 👋
 
 Aspiring Cloud/DevOps Engineer based in Bangalore, India.
