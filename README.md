@@ -27,9 +27,7 @@ Building hands-on projects in cloud infrastructure and automation.
 - ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinay-PR-Gowda&show_icons=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-PR-Gowda&show_icons=true" />
 </p>
 
 ## 🌱 Currently Learning
