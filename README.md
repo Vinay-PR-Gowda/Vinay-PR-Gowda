@@ -2,6 +2,11 @@
 <img src="banner.png.jpeg" width="100%">
 </p>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinay+Gowda;Cloud+Computing+Student;Aspiring+Cloud+Engineer;AWS+%7C+Linux+%7C+Git;Always+Learning+New+Technologies"/>
+
+</p>
 # Hi, I'm Vinay 👋
 
 Aspiring Cloud/DevOps Engineer based in Bangalore, India.
